@@ -1,2 +1,2 @@
 # Blackjack
-Simple Blackjack game for Haskell
+Simple Blackjack game written in Haskell
